@@ -1,6 +1,6 @@
-# arknights_story_reader
+# Arknights_Story_Reader
 
-A new Flutter project.
+[WIP]
 
 ## Getting Started
 
